@@ -5,4 +5,4 @@
 - Be part of a supportive community where you can share progress, ask questions, and celebrate milestones together.
 - Build portfolio that you can showcase to potential employers or clients.
 
-### Challenge log template: ADD LINK
+#### To document your progress, use the [Challenge log template](https://github.com/PyLadiesSoFlo/100daysofcode/blob/main/log-template.md).
